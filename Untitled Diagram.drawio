@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T09:19:51.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="SSgWAkHpihqIn5og6ahj" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T09:22:31.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="ZhL-wq8hKcNXuQwdCCHz" version="14.7.9" type="github">
   <diagram id="lKoHrc5MSymKsgjGN5dv" name="Page-1">
     <mxGraphModel dx="5549" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
@@ -100,6 +100,22 @@
         </mxCell>
         <mxCell id="k62wVjFiB16d4o9aMP6C-16" value="&lt;h3&gt;Cattle Farming&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M5c5dAhxw1YWjsHR_SRw-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="k62wVjFiB16d4o9aMP6C-17" target="M5c5dAhxw1YWjsHR_SRw-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="245" />
+              <mxPoint x="600" y="288" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M5c5dAhxw1YWjsHR_SRw-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="k62wVjFiB16d4o9aMP6C-17" target="M5c5dAhxw1YWjsHR_SRw-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="245" />
+              <mxPoint x="600" y="325" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="k62wVjFiB16d4o9aMP6C-17" value="&lt;h3&gt;Poultry Farming&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="230" width="120" height="30" as="geometry" />
@@ -355,6 +371,12 @@
         </mxCell>
         <mxCell id="M5c5dAhxw1YWjsHR_SRw-58" value="&lt;h5&gt;&lt;i&gt;Apis mellifera&lt;/i&gt;&lt;/h5&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="405" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M5c5dAhxw1YWjsHR_SRw-60" value="&lt;h4&gt;Layers &amp;amp; Broilers&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="275" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="M5c5dAhxw1YWjsHR_SRw-61" value="&lt;h4&gt;Indian, Foreign and Hybrid Varieties&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="315" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
