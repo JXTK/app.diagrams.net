@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T09:06:43.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="UGMpHUGGZTpgRBxzxdgL" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T09:13:52.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="rf11CjymjSTr5nKbgibC" version="14.7.9" type="github">
   <diagram id="lKoHrc5MSymKsgjGN5dv" name="Page-1">
     <mxGraphModel dx="5549" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
@@ -81,6 +81,22 @@
         </mxCell>
         <mxCell id="k62wVjFiB16d4o9aMP6C-12" value="&lt;h3&gt;Crop Protection Management&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="230" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M5c5dAhxw1YWjsHR_SRw-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="k62wVjFiB16d4o9aMP6C-16" target="M5c5dAhxw1YWjsHR_SRw-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="235" />
+              <mxPoint x="440" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M5c5dAhxw1YWjsHR_SRw-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="k62wVjFiB16d4o9aMP6C-16" target="M5c5dAhxw1YWjsHR_SRw-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="235" />
+              <mxPoint x="440" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="k62wVjFiB16d4o9aMP6C-16" value="&lt;h3&gt;Cattle Farming&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="220" width="120" height="30" as="geometry" />
@@ -232,6 +248,58 @@
         </mxCell>
         <mxCell id="M5c5dAhxw1YWjsHR_SRw-31" value="&lt;h5&gt;Mixed Cropping&lt;/h5&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="630" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M5c5dAhxw1YWjsHR_SRw-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="M5c5dAhxw1YWjsHR_SRw-35" target="M5c5dAhxw1YWjsHR_SRw-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="270" />
+              <mxPoint x="590" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M5c5dAhxw1YWjsHR_SRw-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="M5c5dAhxw1YWjsHR_SRw-35" target="M5c5dAhxw1YWjsHR_SRw-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="270" />
+              <mxPoint x="590" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M5c5dAhxw1YWjsHR_SRw-35" value="&lt;h4&gt;Milch Cattle&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M5c5dAhxw1YWjsHR_SRw-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M5c5dAhxw1YWjsHR_SRw-36" target="M5c5dAhxw1YWjsHR_SRw-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="380" />
+              <mxPoint x="450" y="380" />
+              <mxPoint x="450" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M5c5dAhxw1YWjsHR_SRw-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="M5c5dAhxw1YWjsHR_SRw-36" target="M5c5dAhxw1YWjsHR_SRw-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="380" />
+              <mxPoint x="600" y="380" />
+              <mxPoint x="600" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M5c5dAhxw1YWjsHR_SRw-36" value="&lt;h4&gt;Draught Cattle&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="350" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M5c5dAhxw1YWjsHR_SRw-37" value="&lt;h5&gt;COW (&lt;i&gt;Bos indicus&lt;/i&gt;)&lt;/h5&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M5c5dAhxw1YWjsHR_SRw-38" value="&lt;h5&gt;BUFFALO (&lt;i&gt;Bos bubalis)&lt;/i&gt;&lt;/h5&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M5c5dAhxw1YWjsHR_SRw-39" value="&lt;h5&gt;Oxen&lt;/h5&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M5c5dAhxw1YWjsHR_SRw-40" value="&lt;h5&gt;Buffalo&lt;/h5&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="390" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
